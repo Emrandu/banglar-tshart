@@ -1,0 +1,28 @@
+.orange{
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+}
+.blue{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+}
+.red{
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+}
+.yellow{
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 10px;
+}
+.purple{
+    background-color: purple;
+    padding: 10px;
+    border-radius: 10px;
+}
+.bold{
+    font-weight: bold;
+}
